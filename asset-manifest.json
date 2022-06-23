@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bing-fa-go-local/static/css/main.86037081.css",
+    "main.js": "/bing-fa-go-local/static/js/main.162308c2.js",
+    "static/js/787.a26bef00.chunk.js": "/bing-fa-go-local/static/js/787.a26bef00.chunk.js",
+    "index.html": "/bing-fa-go-local/index.html",
+    "main.86037081.css.map": "/bing-fa-go-local/static/css/main.86037081.css.map",
+    "main.162308c2.js.map": "/bing-fa-go-local/static/js/main.162308c2.js.map",
+    "787.a26bef00.chunk.js.map": "/bing-fa-go-local/static/js/787.a26bef00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86037081.css",
+    "static/js/main.162308c2.js"
+  ]
+}
